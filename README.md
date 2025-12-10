@@ -35,6 +35,7 @@ The Tableau dashboard provides insights into:
 
 - **Tableau Desktop**
 - **Netflix CSV File**
+- **Used Calculated Field, Parameters and Filters**
 
 ---
 
