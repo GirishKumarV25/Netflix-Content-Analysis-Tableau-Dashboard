@@ -1,6 +1,6 @@
 # 📊 Netflix Content Analysis — Tableau Dashboard
 
-This repository contains an interactive **Tableau Dashboard** built using the `Netflix.twbx` workbook. It explores trends, patterns, and insights from Netflix’s catalog, including movies and TV shows.
+Netflix Tableau dashboard provides interactive visualizations for analyzing content, showing distribution by genre, country, and release year, tracking trends (like content growth), analyzing ratings (maturity levels), comparing movies vs. TV shows, and often includes word clouds from descriptions and filters for genre/year to offer insights into content strategy and consumption patterns
 
 ---
 
